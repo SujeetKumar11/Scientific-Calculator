@@ -1,0 +1,55 @@
+    form {
+        width: 440px;
+        padding: 25px;
+        margin: auto;
+        border: 5px solid black;
+        border-radius: 15px 15px;
+    }
+    
+    .head {
+        color: blue;
+    }
+    
+    input {
+        background: lightcyan;
+        color: black;
+        font-size: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 19px;
+        padding-right: 19px;
+        margin: 6px;
+    }
+    
+    .num {
+        background-color: coral;
+    }
+    
+    .num1 {
+        background-color: lightseagreen;
+    }
+    
+    #ui1 {
+        background-color: red;
+    }
+    
+    #ui2 {
+        background-color: lightcoral;
+    }
+    
+    #ui3 {
+        background-color: green;
+    }
+    
+    body {
+        background-color: lightgrey;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    .sc {
+        background: lightslategray;
+        color: black;
+    }
